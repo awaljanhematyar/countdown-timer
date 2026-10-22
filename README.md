@@ -4,6 +4,8 @@ JavaScript countdown to the next New Year with a matching target-year label and 
 
 Part of my JavaScript practice work. Explore my complete projects on [GitHub](https://github.com/awaljanhematyar) or my [developer portfolio](https://hematyar-professional-portfolio.vercel.app/).
 
+[Live demo](https://awaljanhematyar.github.io/countdown-timer/)
+
 ## Features
 
 - Calculate the next New Year using the visitor's local timezone.
